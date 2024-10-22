@@ -1,0 +1,93 @@
+[
+    {
+      "recipe_image": "https://i.ibb.co.com/SyKwXFL/alexandra-mendivil-pp2l-EE-rr-Nc-unsplash.jpg",
+      "recipe_id": "001",
+      "recipe_name": "Grilled Chicken with Basil",
+      "short_description": "A delicious grilled chicken served with a fresh basil sauce.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaves",
+        "400 g mushrooms",
+        "50 ml olive oil"
+      ],
+      "preparing_time": "30 min",
+      "calories": "320 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/N9MByJY/cathal-mac-an-bheatha-TC-h-Oo-D6-EOY-unsplash.jpg",
+      "recipe_id": "002",
+      "recipe_name": "Spaghetti Bolognese",
+      "short_description": "Classic Italian spaghetti with a rich Bolognese sauce.",
+      "ingredients": [
+        "500 g spaghetti",
+        "300 g ground beef",
+        "200 g tomatoes",
+        "100 g onions",
+        "2 cloves garlic"
+      ],
+      "preparing_time": "45 min",
+      "calories": "450 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/vBTXfb7/sebastian-coman-photography-CRo-Ae-Th5-S-I-unsplash.jpg",
+      "recipe_id": "003",
+      "recipe_name": "Vegetarian Tacos",
+      "short_description": "Crispy tacos filled with fresh vegetables and a tangy sauce.",
+      "ingredients": [
+        "6 taco shells",
+        "200 g black beans",
+        "150 g corn",
+        "100 g lettuce",
+        "50 g avocado",
+        "50 ml sour cream"
+      ],
+      "preparing_time": "20 min",
+      "calories": "280 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/VDmw69Y/jenn-kosar-9-Er-MNdzr-PA-unsplash.jpg",
+      "recipe_id": "004",
+      "recipe_name": "Mushroom Risotto",
+      "short_description": "A creamy and savory mushroom risotto.",
+      "ingredients": [
+        "400 g Arborio rice",
+        "200 g mushrooms",
+        "100 ml white wine",
+        "50 g Parmesan cheese",
+        "50 g butter"
+      ],
+      "preparing_time": "35 min",
+      "calories": "390 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/XkMsY2D/nisha-ramesh-Q5m-PPGld5-Zk-unsplash.jpg",
+      "recipe_id": "005",
+      "recipe_name": "Lemon Garlic Salmon",
+      "short_description": "Tender salmon fillet baked with lemon and garlic.",
+      "ingredients": [
+        "2 salmon fillets",
+        "1 lemon",
+        "3 cloves garlic",
+        "50 ml olive oil",
+        "50 g parsley"
+      ],
+      "preparing_time": "25 min",
+      "calories": "360 calories"
+    },
+    {
+      "recipe_image": "https://i.ibb.co.com/bg0JQwv/brooke-lark-oaz0rays-ASk-unsplash.jpg",
+      "recipe_id": "006",
+      "recipe_name": "Chocolate Brownies",
+      "short_description": "Rich and fudgy chocolate brownies with a crispy top.",
+      "ingredients": [
+        "200 g dark chocolate",
+        "150 g butter",
+        "200 g sugar",
+        "100 g flour",
+        "3 eggs"
+      ],
+      "preparing_time": "40 min",
+      "calories": "400 calories"
+    }
+  ]
