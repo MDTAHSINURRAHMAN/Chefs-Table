@@ -11,8 +11,8 @@
         "400 g mushrooms",
         "50 ml olive oil"
       ],
-      "preparing_time": "30 min",
-      "calories": "320 calories"
+      "preparing_time": 30,
+      "calories": 320
     },
     {
       "recipe_image": "https://i.ibb.co.com/N9MByJY/cathal-mac-an-bheatha-TC-h-Oo-D6-EOY-unsplash.jpg",
@@ -26,8 +26,8 @@
         "100 g onions",
         "2 cloves garlic"
       ],
-      "preparing_time": "45 min",
-      "calories": "450 calories"
+      "preparing_time": 45,
+      "calories": 450
     },
     {
       "recipe_image": "https://i.ibb.co.com/vBTXfb7/sebastian-coman-photography-CRo-Ae-Th5-S-I-unsplash.jpg",
@@ -42,8 +42,8 @@
         "50 g avocado",
         "50 ml sour cream"
       ],
-      "preparing_time": "20 min",
-      "calories": "280 calories"
+      "preparing_time": 20,
+      "calories": 280
     },
     {
       "recipe_image": "https://i.ibb.co.com/VDmw69Y/jenn-kosar-9-Er-MNdzr-PA-unsplash.jpg",
@@ -57,8 +57,8 @@
         "50 g Parmesan cheese",
         "50 g butter"
       ],
-      "preparing_time": "35 min",
-      "calories": "390 calories"
+      "preparing_time": 35,
+      "calories": 390
     },
     {
       "recipe_image": "https://i.ibb.co.com/XkMsY2D/nisha-ramesh-Q5m-PPGld5-Zk-unsplash.jpg",
@@ -72,8 +72,8 @@
         "50 ml olive oil",
         "50 g parsley"
       ],
-      "preparing_time": "25 min",
-      "calories": "360 calories"
+      "preparing_time": 25,
+      "calories": 360
     },
     {
       "recipe_image": "https://i.ibb.co.com/bg0JQwv/brooke-lark-oaz0rays-ASk-unsplash.jpg",
@@ -87,7 +87,7 @@
         "100 g flour",
         "3 eggs"
       ],
-      "preparing_time": "40 min",
-      "calories": "400 calories"
+      "preparing_time": 40,
+      "calories": 400
     }
   ]
